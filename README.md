@@ -10,12 +10,19 @@ First, add an html file with the following content:
 <!doctype html>
 <html>
   <head>
+    <style>
+      body {
+        background-color: black;
+      }
+    </style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Any title</title>
   </head>
   <body>
-    <canvas width="70" height="100"> <!-- This will be for the main screen>
-  <script src="script.js">
+    <canvas width="280" height="400" style="
+    border: 6px solid;
+    border-radius: 25px;
+    "></canvas> <!-- This will be for the main screen-->
   </body>
 </html>
 ```
