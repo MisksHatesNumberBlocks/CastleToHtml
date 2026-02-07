@@ -15,6 +15,13 @@ First, add an html file with the following content:
   </head>
   <body>
     <canvas width="70" height="100"> <!-- This will be for the main screen>
+  <script src="script.js">
   </body>
 </html>
+```
+Then, go to the 2th part.
+# Javascript Code
+For the main `script.js` file, add the following content:
+``` javascript
+/* Stay tuned!*/
 ```
