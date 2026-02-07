@@ -5,7 +5,8 @@ A guide on how to port your castle.xyz game to html5.
 ---
 
 # Basic HTML Stucture
-First, add an html file with the following content: ``` html
+First, add an html file with the following content: 
+``` html
 <!doctype html>
 <html>
   <head>
