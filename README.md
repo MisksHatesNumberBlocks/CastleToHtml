@@ -20,10 +20,12 @@ First, add an html file with the following content:
     <title>Any title</title>
   </head>
   <body>
-    <canvas width="280" height="400" style="
+    <canvas id="screen" width="280" height="400" style="
     border: 6px solid;
     border-radius: 25px;
+    background-color: white;
     "></canvas> <!-- This will be for the main screen-->
+    <script src="script.js">
   </body>
 </html>
 ```
