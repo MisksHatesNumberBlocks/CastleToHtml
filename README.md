@@ -42,3 +42,4 @@ function wall() {
   let position = [0,0] /* This will be the position */
 }
 ```
+<!-- I swear to god, this wasn't made by ai 🤬 -->
