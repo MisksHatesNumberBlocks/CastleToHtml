@@ -34,6 +34,9 @@ Then, go to the 2th part.
 # Javascript Code
 For the main `script.js` file, add the following content:
 ``` javascript
+let layout = '{
+"wall": {}
+}'
 function wall() {
   // 'wall' can be any actor
   let position = [0,0] /* This will be the position */
