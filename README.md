@@ -35,10 +35,13 @@ Then, go to the 2th part.
 For the main `script.js` file, add the following content:
 ``` javascript
 let layout = `{
-"wall": {}
+"wall": {
+  "frame1": "https://alinktoyourimage"
+}
 }`
 function wall() {
   // 'wall' can be any actor
+  const frame1 = JSON.parse(layout).wall.frame1
   let position = [0,0] /* This will be the position */
 }
 ```
